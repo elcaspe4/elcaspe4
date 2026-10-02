@@ -30,7 +30,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css36)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
@@ -38,8 +38,11 @@
 ![jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=adobe-express)&nbsp;
+![Pentesting](https://img.shields.io/badge/-Pentesting-05122A?style=flat&logo=kalilinux)
+![Kali linux](https://img.shields.io/badge/-Kali_Linux-000000?style=flat&logo=kalilinux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
