@@ -40,9 +40,9 @@
 ![rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=adobe-express)&nbsp;
 ![Pentesting](https://img.shields.io/badge/-Pentesting-05122A?style=flat&logo=kalilinux)
-![Kali linux](https://img.shields.io/badge/-Kali_Linux-000000?style=flat&logo=kalilinux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)&nbsp;
+![Kali linux](https://img.shields.io/badge/-Kali_Linux-05122A?style=flat&logo=kalilinux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
